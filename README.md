@@ -4,7 +4,7 @@ Esse é o repositório para o curso de programação para os pesquisadores do GE
 
 É possível fazer o download do repositório inteiro baixando o .zip de todas as pastas.
 
-O "notebook" da primeira aula pode ser acessado aqui: (Notebook aula01)[https://github.com/guilherme-kenzo/aula_programacao_fgv/blob/master/aula01/aula01.ipynb]
+O "notebook" da primeira aula pode ser acessado aqui: [Notebook aula01](https://github.com/guilherme-kenzo/aula_programacao_fgv/blob/master/aula01/aula01.ipynb)
 
 ## Materiais para estudo adicional
 
