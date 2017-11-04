@@ -8,11 +8,11 @@ O "notebook" da primeira aula pode ser acessado aqui: (Notebook aula01)[https://
 
 ## Materiais para estudo adicional
 
-(Automate the Boring Stuff with Python)[https://automatetheboringstuff.com/]
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
-(Documentação oficial python)[https://docs.python.org/3/]
+[Documentação oficial python](https://docs.python.org/3/)
 
-(Python para zumbis)[https://www.pycursos.com/python-para-zumbis/]
+[Python para zumbis](https://www.pycursos.com/python-para-zumbis/)
 
 
 
